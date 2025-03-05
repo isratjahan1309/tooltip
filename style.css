@@ -1,0 +1,14 @@
+.btn_c{
+	width: 200px;
+	height: 65px;
+	background-cololr: red;
+	color: white:
+	border: 1px solid red;
+	transition: .33s linear;
+
+}
+.btn_c:hover{
+	background-color: white;
+	color: red;
+	border: 1px solid red;
+}
